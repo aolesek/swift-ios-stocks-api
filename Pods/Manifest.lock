@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - LinearProgressBarMaterial (1.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - Charts
+  - LinearProgressBarMaterial
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - LinearProgressBarMaterial
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  LinearProgressBarMaterial: 84df3135c27a0fc5e0219da10ee98304de159b06
+
+PODFILE CHECKSUM: e2d1ae5c7ebf7cf24996c8b48f27f30ed35aff54
+
+COCOAPODS: 1.8.4
